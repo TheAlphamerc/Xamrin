@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\BinaryClk\BinaryClk\BinaryClk\bin\Debug\netstandard2.0\BinaryClk.deps.json
+C:\Users\Admin\source\repos\BinaryClk\BinaryClk\BinaryClk\bin\Debug\netstandard2.0\BinaryClk.dll
+C:\Users\Admin\source\repos\BinaryClk\BinaryClk\BinaryClk\bin\Debug\netstandard2.0\BinaryClk.pdb
+C:\Users\Admin\source\repos\BinaryClk\BinaryClk\BinaryClk\obj\Debug\netstandard2.0\BinaryClk.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BinaryClk\BinaryClk\BinaryClk\obj\Debug\netstandard2.0\BinaryClk.App.xaml.g.cs
+C:\Users\Admin\source\repos\BinaryClk\BinaryClk\BinaryClk\obj\Debug\netstandard2.0\BinaryClk.MainPage.xaml.g.cs
+C:\Users\Admin\source\repos\BinaryClk\BinaryClk\BinaryClk\obj\Debug\netstandard2.0\BinaryClk.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BinaryClk\BinaryClk\BinaryClk\obj\Debug\netstandard2.0\BinaryClk.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BinaryClk\BinaryClk\BinaryClk\obj\Debug\netstandard2.0\BinaryClk.dll
+C:\Users\Admin\source\repos\BinaryClk\BinaryClk\BinaryClk\obj\Debug\netstandard2.0\BinaryClk.pdb
+C:\Users\Admin\source\repos\BinaryClk\BinaryClk\BinaryClk\obj\Debug\netstandard2.0\BinaryClk.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\BinaryClk\BinaryClk\BinaryClk\obj\Debug\netstandard2.0\BinaryClk.View.SplashScreen.xaml.g.cs
