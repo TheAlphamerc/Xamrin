@@ -1,5 +1,8 @@
 ﻿using System;
-
+using Microsoft.AppCenter;
+using Microsoft.AppCenter.Analytics;
+using Microsoft.AppCenter.Crashes;
+using Microsoft.AppCenter; using Microsoft.AppCenter.Analytics; using Microsoft.AppCenter.Crashes;
 using Android.App;
 using Android.Content.PM;
 using Android.Runtime;
@@ -21,6 +24,9 @@ namespace SplashScreen.Droid
 
             global::Xamarin.Forms.Forms.Init(this, bundle);
             LoadApplication(new App());
+            AppCenter.Start("9f5932e2-bed7-44e8-9773-9fc4599cd585",
+                   typeof(Analytics), typeof(Crashes));
+AppCenter.Start("9f5932e2-bed7-44e8-9773-9fc4599cd585", typeof(Analytics), typeof(Crashes));
         }
     }
 }
